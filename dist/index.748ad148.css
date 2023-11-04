@@ -1,0 +1,50 @@
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Lobster, cursive;
+}
+
+h2 {
+  color: #3046c5;
+}
+
+header {
+  color: #fff;
+  background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
+  padding: 30px;
+}
+
+header h2 {
+  color: #cec8ff;
+}
+
+footer {
+  background-image: linear-gradient(#cec8ff, #fff);
+  padding: 20px 0;
+}
+
+.row-content {
+  border-bottom: 1px ridge;
+  min-height: 200px;
+  padding: 50px 0;
+}
+
+.navbar {
+  background-color: #901cad;
+}
+
+.accordion-button {
+  background-color: #d3d3d3;
+}
+
+.carousel-caption {
+  background-color: #00000080;
+}
+
+.carousel {
+  border: solid #5637dd;
+}
+
+/*# sourceMappingURL=index.748ad148.css.map */
