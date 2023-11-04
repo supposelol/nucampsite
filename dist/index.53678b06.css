@@ -78,4 +78,30 @@ header {
   display: flex;
 }
 
+#weather {
+  color: #fff;
+  align-items: center;
+  display: flex;
+}
+
+#weather #weather-icon {
+  font-size: 1rem;
+}
+
+#weather #city-name {
+  margin-left: 10px;
+}
+
+#weather #weather-temp, #weather #weather-description {
+  margin-right: 10px;
+}
+
+#weather #weather-description {
+  text-transform: capitalize;
+}
+
+#weather:hover {
+  opacity: .8;
+}
+
 /*# sourceMappingURL=index.53678b06.css.map */
